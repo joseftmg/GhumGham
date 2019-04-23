@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ghum Gham</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_API_key">AIzaSyCq2kS6dVX_QHMmnv_CSuQVxb-9Q7Ix4j4</string>
+    <string name="action_settings">Settings</string>
+    <string name="whats_in_your_mind">Whats in your mind</string>
+    <string name="share_note">Share Note</string>
+    <string name="delete_notes">Delete Notes</string>
+    <string name="no_notes">No Notes !</string>
+
+</resources>
